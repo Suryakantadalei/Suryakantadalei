@@ -1,7 +1,6 @@
 ![logo](https://github.com/Suryakantadalei/Suryakantadalei/blob/main/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Surya Kanta Dalei</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif"
 
 
 - 📫 How to reach me **101suryakantadalei@gmail.com**
