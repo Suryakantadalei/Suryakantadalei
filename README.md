@@ -1,8 +1,11 @@
 ![logo](https://github.com/Suryakantadalei/Suryakantadalei/blob/main/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
  <h1 align="center">Hi 👋, I'm Surya Kanta Dalei</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="200px" src="[ https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif](https://github.com/Suryakantadalei/Suryakantadalei/raw/main/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)">
+
+
+ <img align="right" alt="coding" width="400px" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif"/>
  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakantadalei&label=Profile%20views&color=0e75b6&style=flat" alt="suryakantadalei" /> </p>
 
 
