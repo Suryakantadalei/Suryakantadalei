@@ -1,4 +1,4 @@
-![logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1651780522995%2FzZbL8WM2v.gif%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dformat%2Ccompress%26gif-q%3D60%26format%3Dwebm&tbnid=dbft6iEKTzX3YM&vet=12ahUKEwjwjsz1sJqBAxVWzaACHebgAv0QMygOegUIARCCAQ..i&imgrefurl=https%3A%2F%2Fblog.arnabghosh.me%2Fadd-github-dark-snake-animation-readme&docid=yh-8KxcNFb11hM&w=1600&h=840&q=coding%20banner%20gif&hl=en&ved=2ahUKEwjwjsz1sJqBAxVWzaACHebgAv0QMygOegUIARCCAQ)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fillunise&psig=AOvVaw3rtYy0kFRZ9GfiH9z02jPQ&ust=1694240791488000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj_hvawmoEDFQAAAAAdAAAAABAY)
 <h1 align="center">Hi 👋, I'm Surya Kanta Dalei</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif"
