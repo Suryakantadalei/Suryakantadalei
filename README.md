@@ -1,4 +1,4 @@
-![logo](https://github.com/Suryakantadalei/Suryakantadalei/blob/main/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67.webp)
+![logo](https://github.com/Suryakantadalei/Suryakantadalei/blob/main/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Surya Kanta Dalei</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif"
